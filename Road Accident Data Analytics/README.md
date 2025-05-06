@@ -1,1 +1,1 @@
-![DashBoard](DashBoard.JPEG)
+![DashBoard](DashBoard.jpeg)

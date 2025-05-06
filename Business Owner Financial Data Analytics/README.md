@@ -1,1 +1,1 @@
-![Dashboard](/Dashboard.jpg)
+![Dashboard](Dashboard.jpg)
